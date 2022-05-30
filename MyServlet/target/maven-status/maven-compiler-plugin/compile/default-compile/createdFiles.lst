@@ -1,2 +1,5 @@
-ru/bg/savilin/FirstServlet.class
 ru/bg/savilin/FirstHttpServlet.class
+ru/bg/savilin/entity/ProductManager.class
+ru/bg/savilin/FirstServlet.class
+ru/bg/savilin/ProductServlet.class
+ru/bg/savilin/entity/Product.class
