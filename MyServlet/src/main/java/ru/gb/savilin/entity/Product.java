@@ -1,4 +1,4 @@
-package ru.bg.savilin.entity;
+package ru.gb.savilin.entity;
 
 public class Product {
 
